@@ -1,2 +1,3 @@
-/alx-system_engineering-devops/0x00-shell_basics
-$cwd
+#!bin/bash
+root@7f97a479088a:/alx-system_engineering-devops/0x00-shell_basics# chmod +x 0-current_working_directory
+root@7f97a479088a:/alx-system_engineering-devops/0x00-shell_basics# ./0-current_working_directory./0-current_working_directory: line 1: /alx-system_engineering-devops/0x00-shell_basics: Is a directory
